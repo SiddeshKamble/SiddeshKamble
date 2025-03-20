@@ -5,9 +5,10 @@
 - 💬 Ask me about **Machine Learning, AI, Python, NLP, and Fullstack Development**  
 - 📫 How to reach me: [siddesh.kamble@syr.edu](mailto:siddesh.kamble@syr.edu)  
 
-### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddeshkamble)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/SiddeshKamble)  
+## 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddeshkamble) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddeshKamble)
 
 ## 🚀 Languages and Tools:
 
