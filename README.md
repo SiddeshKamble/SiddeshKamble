@@ -17,8 +17,14 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 
-### GitHub Stats:  
-![Siddesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=dark)  
+## 📊 GitHub Stats  
+
+<div align="center">
+  <a href="https://github.com/SiddeshKamble">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=dark&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=dark"/>
+  </a>
+</div>
 
 ### Most Used Languages:  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=dark)  
