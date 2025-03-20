@@ -26,5 +26,3 @@
   </a>
 </div>
 
-### Most Used Languages:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=dark)  
