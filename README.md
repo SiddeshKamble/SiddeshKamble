@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋, I'm Siddesh Kamble  
+**MSCS @ Syracuse University | AI & ML Enthusiast | Software Developer**  
 
-<!--
-**SiddeshKamble/SiddeshKamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Applied NLP & Advanced Machine Learning**  
+- 💬 Ask me about **Machine Learning, AI, Python, NLP, and Fullstack Development**  
+- 📫 How to reach me: [siddesh.kamble@syr.edu](mailto:siddesh.kamble@syr.edu)  
 
-Here are some ideas to get you started:
+### Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddeshkamble)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/SiddeshKamble)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+
+### GitHub Stats:  
+![Siddesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=dark)  
+
+### Most Used Languages:  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=dark)  
