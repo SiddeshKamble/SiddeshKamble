@@ -22,12 +22,4 @@
 </p>
 
 
-## GitHub Stats  
-
-<div align="center">
-  <a href="https://github.com/SiddeshKamble">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=dark&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=dark"/>
-  </a>
-</div>
 
