@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Applied NLP & Advanced Machine Learning**  
 - 💬 Ask me about **Machine Learning, AI, Python, NLP, and Fullstack Development**  
-- 📫 How to reach me: [siddeshkamble,jobs@gmail.com](mailto:siddeshkamble,jobs@gmail.com)  
+- 📫 How to reach me: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)  
 
 ## Connect with me:
 
