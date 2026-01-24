@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Siddesh Kamble  
-**MSCS @ Syracuse University | AI & ML Enthusiast | Software Developer | GEN AI**  
+**MSCS @ Syracuse University | Software Engineer | AI & ML Enthusiast |GEN AI**  
 
 - 🌱 I’m currently learning **Applied NLP & Advanced Machine Learning**  
 - 💬 Ask me about **Machine Learning, AI, Python, NLP, and Fullstack Development**  
-- 📫 How to reach me: [siddesh.kamble@syr.edu](mailto:siddesh.kamble@syr.edu)  
+- 📫 How to reach me: [siddeshkamble,jobs@gmail.com](mailto:siddeshkamble,jobs@gmail.com)  
 
 ## Connect with me:
 
