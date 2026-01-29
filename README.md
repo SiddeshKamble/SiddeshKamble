@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Siddesh Kamble
 
-<img align="right" alt="Coding Desk" width="400" 
+<img align="right" alt="Coding Desk" width="300" 
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 **Graduate Student – MS in Computer Science @ Syracuse University**  
