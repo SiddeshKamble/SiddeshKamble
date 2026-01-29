@@ -11,7 +11,7 @@ I’m passionate about building **production-ready full-stack systems** and appl
 - 💁🏻 **Open for Full-time Opportunities**
 - 🌱 Currently learning **Machine Learning, Applied NLP & Generative AI**
 - 💬 Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
-- 📫 Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
+- 📫 Reach me at: [LinkedIn/SiddeshKamble](https://www.linkedin.com/in/siddesh-kamble/)
 
 ---
 ## 🌐 Connect with Me
