@@ -19,7 +19,7 @@ machine learning & NLP to real-world problems.
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://siddeshkamble.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://siddeshkamble.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-kamble/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&user=fR3HuhAAAAAJ)
 
