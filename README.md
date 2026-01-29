@@ -1,15 +1,17 @@
-## Hi, I'm Siddesh Kamble 👋🏻  
-**MS in Computer Science @ Syracuse University | Software Engineer | AI, ML & GenAI Enthusiast** 👨🏽‍🎓
+## Hi 👋, I'm Siddesh Kamble  
+**MS in Computer Science @ Syracuse University | Software Engineer | AI, ML & GenAI Enthusiast**
 
-I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems. I enjoy working across the stack—from clean UIs to scalable backends and applied AI.
+I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems.
 
-- Currently open for  **Full-time Opportunities** 
-- Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
-- Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
+- 💁🏻 **Open for Full-time Opportunities**
+- 🌱 Currently learning **Applied NLP, Advanced Machine Learning & Generative AI**
+- 💬 Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
+- 📫 Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
 
 ---
 
 ## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddeshkamble.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-kamble/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddeshKamble)
 
@@ -31,14 +33,12 @@ I’m passionate about building **production-ready full-stack systems** and appl
 ---
 
 ## Featured Work
-- **RescueRoute** - Emergency response & routing platform  
-- **Sarcasm Detection App** - NLP + ML web application  
-- **Secure File Locker** - Encryption-focused security project  
-
----
-
-## 📊 GitHub Activity
-![Siddesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddeshKamble&theme=tokyonight)
+- 🚨 **RescueRoute** – Emergency response & routing platform  
+- 🤖 **Sarcasm Detection App** – NLP + ML web application  
+- 🔐 **Secure File Locker** – Security-focused encryption project  
 
 Check pinned repositories below ⬇️
+
+
+
+
