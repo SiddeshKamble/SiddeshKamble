@@ -5,11 +5,11 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
 **Graduate Student MS in Computer Science @ Syracuse University**
-**Software Engineer | Fullstack Develoepr | AI, ML & GenAI Enthusiast**
+**Software Engineer | Full-Stack Develoepr | AI, ML & GenAI Enthusiast**
 
 I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems. 
 - 💁🏻 **Open for Full-time Opportunities**
-- 🌱 Currently learning **Applied NLP, Advanced Machine Learning & Generative AI**
+- 🌱 Currently learning **Machine Learning, Applied NLP & Generative AI**
 - 💬 Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
 - 📫 Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
 
