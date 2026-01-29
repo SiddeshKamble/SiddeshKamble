@@ -1,38 +1,83 @@
-## Hi 👋, I'm Siddesh Kamble  
 
-<img align="right" alt="Coding Desk" width="300" 
+
+## Hi 👋, I'm Siddesh Kamble
+
+
+<img align="right" alt="Coding Desk" width="400" 
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+**Graduate Student – MS in Computer Science @ Syracuse University**  
+**Software Engineer | Full-Stack Developer | AI, ML & GenAI Enthusiast**
 
-**Graduate Student MS in Computer Science @ Syracuse University**
-**Software Engineer | Full-Stack Develoepr | AI, ML & GenAI Enthusiast**
+I’m passionate about building production-ready full-stack systems and applying
+machine learning & NLP to real-world problems.
 
-I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems. 
-- 💁🏻 **Open for Full-time Opportunities**
-- 🌱 Currently learning **Machine Learning, Applied NLP & Generative AI**
-- 💬 Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
-- 📫 Reach me at: [LinkedIn/SiddeshKamble](https://www.linkedin.com/in/siddesh-kamble/)
+- 💼 Open for Full-time Opportunities  
+- 🌱 Currently learning Machine Learning, Applied NLP & Generative AI  
+- 💬 Ask me about ML, NLP, Python, Full-Stack Development  
+- 📫 Reach me at: [LinkedIn/SiddeshKamble](https://linkedin.com/in/SiddeshKamble)
+
+<br clear="right"/>
+
+ ---
+
+<h2>🌐 Connect with Me</h2>
+
+<div align="left">
+
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/SiddeshKamble" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuayxB6yXkrInDSjwhenm9cniXmpV3VdLcl7z1PWRymQwyx9W4hDcxEgdO3nFVdOyUej98YmUiInevs7_Q&user=fR3HuhAAAAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddeshkamble.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-kamble/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddeshKamble)
+
+## 🎯 Skills
+
+- **Full-Stack Development:** React, Node.js, REST APIs  
+- **AI/ML & NLP:** Text classification, deep learning, model evaluation  
+- **Backend & Databases:** Django, PostgreSQL  
+- **Cloud & DevOps:** AWS, GCP, Docker, Git, Linux  
+
 
 ---
 
-## Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+<h2>Languages & Tools</h2>
+
+<div align="left">
+
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" />
+<br/>
+
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+
+<!-- Row 3 (AI/ML + Dev) -->
+<img src="https://img.shields.io/badge/ML%20%26%20NLP-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+
+</div>
+
 
 ---
 
