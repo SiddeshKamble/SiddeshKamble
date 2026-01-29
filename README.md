@@ -1,7 +1,5 @@
 
-
 ## Hi 👋, I'm Siddesh Kamble
-
 
 <img align="right" alt="Coding Desk" width="400" 
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
@@ -15,27 +13,15 @@ machine learning & NLP to real-world problems.
 - 💼 Open for Full-time Opportunities  
 - 🌱 Currently learning Machine Learning, Applied NLP & Generative AI  
 - 💬 Ask me about ML, NLP, Python, Full-Stack Development  
-- 📫 Reach me at: [LinkedIn/SiddeshKamble](https://linkedin.com/in/SiddeshKamble)
-
-<br clear="right"/>
+- 📫 Reach me at: [LinkedIn/siddesh-kamble](https://www.linkedin.com/in/siddesh-kamble/)
 
  ---
 
-<h2>🌐 Connect with Me</h2>
+## 🌐 Connect with Me
 
-<div align="left">
-
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/SiddeshKamble" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuayxB6yXkrInDSjwhenm9cniXmpV3VdLcl7z1PWRymQwyx9W4hDcxEgdO3nFVdOyUej98YmUiInevs7_Q&user=fR3HuhAAAAAJ" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://siddeshkamble.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-kamble/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&user=fR3HuhAAAAAJ)
 
 ---
 
