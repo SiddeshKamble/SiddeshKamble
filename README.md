@@ -1,15 +1,19 @@
 ## Hi 👋, I'm Siddesh Kamble  
-**MS in Computer Science @ Syracuse University | Software Engineer | AI, ML & GenAI Enthusiast**
 
-I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems.
+<img align="right" alt="Coding Desk" width="300" 
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+
+**Graduate Student MS in Computer Science @ Syracuse University**
+**Software Engineer | Fullstack Develoepr | AI, ML & GenAI Enthusiast**
+
+I’m passionate about building **production-ready full-stack systems** and applying **machine learning & NLP** to real-world problems. 
 - 💁🏻 **Open for Full-time Opportunities**
 - 🌱 Currently learning **Applied NLP, Advanced Machine Learning & Generative AI**
 - 💬 Ask me about **Machine Learning, NLP, Python, Full-Stack Development**
 - 📫 Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
 
 ---
-
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddeshkamble.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-kamble/)
