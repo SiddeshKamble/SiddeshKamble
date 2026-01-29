@@ -13,7 +13,7 @@ machine learning & NLP to real-world problems.
 - 💼 Open for Full-time Opportunities  
 - 🌱 Currently learning Machine Learning, Applied NLP & Generative AI  
 - 💬 Ask me about ML, NLP, Python, Full-Stack Development  
-- 📫 Reach me at: [LinkedIn/siddesh-kamble](https://www.linkedin.com/in/siddesh-kamble/)
+- 📫 Reach me at: [siddeshkamble.jobs@gmail.com](mailto:siddeshkamble.jobs@gmail.com)
 
  ---
 
