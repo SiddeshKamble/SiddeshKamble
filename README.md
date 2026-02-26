@@ -66,14 +66,19 @@ machine learning & NLP to real-world problems.
 
 
 ---
+## 📊 GitHub Stats
 
-## Featured Work
-- 🚨 **RescueRoute** – Emergency response & routing platform  
-- 🤖 **Sarcasm Detection App** – NLP + ML web application  
-- 🔐 **Secure File Locker** – Security-focused encryption project  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddeshKamble&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
+</p>
 
-Check pinned repositories below ⬇️
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SiddeshKamble&theme=radical&hide_border=true&background=0D1117&ring=FF2E88&fire=FF2E88&currStreakLabel=FFFFFF" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeshKamble&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
 
 
